@@ -1,5 +1,5 @@
 import React, { FunctionComponent } from 'react';
-import { Button, Card } from 'semantic-ui-react'
+import { Card } from 'semantic-ui-react'
 import Dictaphone from '../../commons/Dictaphone';
 
 const Twister: FunctionComponent = () => {
